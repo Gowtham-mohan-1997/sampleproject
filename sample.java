@@ -3,7 +3,7 @@ public class sample {
         System.out.println("Hello, world!");
         System.out.println("gowtham, mohan!");
         System.out.println("siva, surya!");
-         System.out.println("skikj, kgh!");
+         System.out.println("tek, kgh!");
 
 
     }
